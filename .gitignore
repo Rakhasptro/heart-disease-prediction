@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Output files
+*.png
+*.jpg
+*.jpeg
+
+# Dataset (opsional, comment jika mau upload dataset)
+# *.csv
+# *.xlsx
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Model files (jika ada)
+*.pkl
+*.joblib
+*.h5
